@@ -1,0 +1,6 @@
+启动jboss后台运行：nohup ./standalone.sh&
+
+ls -a 查看所有文件包括隐藏文件
+
+ps -ef|grep tomcat 查看tomcat进程
+
